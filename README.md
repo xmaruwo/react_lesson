@@ -1,3 +1,10 @@
+# react_lesson
+
+<a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lh7f5esn7t2bsjk61r9l" alt="trackgit-views" />
+</a>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

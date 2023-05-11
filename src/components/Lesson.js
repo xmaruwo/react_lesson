@@ -44,6 +44,7 @@ class Lesson extends React.Component {
     return (
       <div className='lesson-card'>
         <div className='lesson-item'
+          key={this.props.id}
           onClick={() => {this.handleClickLesson()}}
         >
           <p>{this.props.name}</p>

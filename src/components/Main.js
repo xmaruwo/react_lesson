@@ -111,10 +111,10 @@ class Main extends React.Component {
         <div className='main'>
           <div className='copy-container'>
             <h1>Hello, World.</h1>
-            <h2>プログラミングの世界へようこそ！</h2>
+            <h2>progateサイトを使って学習した技術</h2>
           </div>
           <div className='lesson-container'>
-            <h3 className='section-title'>学べるレッスン</h3>
+            <h3 className='section-title'>修了したレッスン</h3>
             {/* Lessonコンポーネントを表示し、propsを渡す */}
             {lessonList.map((lessonItem, index) => {
               return (

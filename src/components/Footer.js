@@ -6,14 +6,13 @@ class Footer extends React.Component {
     return (
       <div className='footer'>
         <div className='footer-inner'>
-          <div className='footer-logo'>
-            <img src='https://s3-ap-northeast-1.amazonaws.com/progate/shared/images/lesson/react/type_logo.png' />
-            <p>Learn to code, learn to creative.</p>
+          <div className='footer-logo'>Sites Learned：<b>Progate</b>
+            <p>Created based on React learning lessons.</p>
           </div>
           <ul className='footer-list'>
-            <li>会社概要</li>
-            <li>採用</li>
-            <li>お問い合わせ</li>
+            <li>XXXX</li>
+            <li>XXX</li>
+            <li>XXXXX</li>
           </ul>
         </div>
       </div>

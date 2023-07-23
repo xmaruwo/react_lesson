@@ -1,4 +1,5 @@
 # react_lesson
+Progateで学習した内容をreactを使ってまとめてみた
 
 <a href="https://trackgit.com">
 <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lh7f5esn7t2bsjk61r9l" alt="trackgit-views" />

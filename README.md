@@ -4,6 +4,12 @@
 <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lh7f5esn7t2bsjk61r9l" alt="trackgit-views" />
 </a>
 
+***
+
+# 成果物（画面）
+## Progateで学習した内容
+<img src="https://user-images.githubusercontent.com/94747777/255373351-2fce8c36-92e7-4845-b1f8-58c1e5bd1974.png" width="500px">
+
 
 # Getting Started with Create React App
 

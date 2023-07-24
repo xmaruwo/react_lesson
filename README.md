@@ -8,6 +8,9 @@ Progateで学習した内容をreactを使ってまとめてみた
 ***
 
 # 成果物（画面）
+
+同じような画面をhtmlで作成したものはこちら 👉　https://github.com/xmaruwo/html_lesson
+
 ## Progateで学習した内容
 <img src="https://user-images.githubusercontent.com/94747777/255373351-2fce8c36-92e7-4845-b1f8-58c1e5bd1974.png" width="500px">
 
